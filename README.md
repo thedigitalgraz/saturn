@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Saturn will enable educational institutions and organizations to issue academic certificates and diplomas as NFTs on the blockchain, which can be easily verified by employers and other stakeholders. 
+Saturn will enable educational institutions and organizations to issue academic certificates and diplomas as SBTs on the blockchain, which can be easily verified by employers and other stakeholders. 
 The protocol will use zk-SNARKs and other zero-knowledge proof techniques to protect the privacy and security of the certificate holders while enabling verification of their credentials.
 
 ## Links:
